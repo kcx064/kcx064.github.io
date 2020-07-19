@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-//**kcx064/kcx064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+/* **kcx064/kcx064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*/
 
 - 🔭 I’m currently working on Beihang Reliable Flight Control Group (rfly), and welcome to our free product RflySim on rflysim.com 
 - 🌱 I’m currently learning Reliable Control on Multicopter.
